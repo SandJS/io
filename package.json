@@ -1,0 +1,27 @@
+{
+  "name": "sand-io",
+  "version": "0.0.1",
+  "description": "Socket IO for Sand",
+  "main": "lib/io.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pocketly/sand-io"
+  },
+  "keywords": [
+    "socket",
+    "io",
+    "websockets"
+  ],
+  "author": "Kevin Smithson <ksmithson@sazze.com>",
+  "bugs": {
+    "url": "https://github.com/pocketly/sand-io/issues"
+  },
+  "homepage": "https://github.com/pocketly/sand-io",
+  "license": "ISC",
+  "dependencies": {
+    "require-all": "^1.0.0",
+    "sand-extend": "0.0.1",
+    "sand-grain": "0.0.1",
+    "socket.io": "^1.2.1"
+  }
+}
