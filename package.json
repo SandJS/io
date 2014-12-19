@@ -20,8 +20,8 @@
   "license": "ISC",
   "dependencies": {
     "require-all": "^1.0.0",
-    "sand-extend": "0.0.1",
-    "sand-grain": "0.0.3",
+    "sand": "0.1.1",
+    "sand-grain": "0.1.1",
     "socket.io": "^1.2.1"
   }
 }
