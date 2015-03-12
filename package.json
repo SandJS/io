@@ -1,6 +1,6 @@
 {
   "name": "sand-io",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Socket IO for Sand",
   "main": "lib/io.js",
   "repository": {
@@ -20,8 +20,8 @@
   "license": "ISC",
   "dependencies": {
     "require-all": "^1.0.0",
-    "sand": "0.1.1",
-    "sand-grain": "0.1.1",
+    "sand": "1.0.0",
+    "sand-grain": "1.0.0",
     "socket.io": "^1.2.1"
   }
 }
